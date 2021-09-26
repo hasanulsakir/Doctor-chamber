@@ -1,0 +1,110 @@
+[
+  {
+    "key": 1,
+    "name": "Dr. AGARKHEDKAR SHARAD RAMKRISHNA",
+    "title": "MBBS M.D. (PAED)",
+    "speciality": "PAEDIATRICS",
+    "gender": "Male",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/129_agarkhedkar_sharad.jpg"
+  },
+  {
+    "key": 2,
+    "name": "Dr. AGARKHEDKAR NIKHIL",
+    "title": "MBBS M.S.(Gen. Surg), M.Ch.(Pl. Surg)",
+    "speciality": "LASTIC SURGERY",
+    "gender": "Male",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/Agarkhedkar%20Nikhil.JPG"
+  },
+  {
+    "key": 3,
+    "name": "Dr. AGARKHEDKAR RENU NIKHIL",
+    "title": "MBBS D.N.B",
+    "speciality": "OPHTHALMOLOGY",
+    "gender": "Female",
+    "fee": 700,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/Renu_Aagerkhedkar.jpg"
+  },
+  {
+    "key": 4,
+    "name": "Dr. MODAK KALINDI M.",
+    "title": "BBS M.S. OPHTHALMOLOGY",
+    "speciality": "OPHTHALMOLOGY",
+    "gender": "Female",
+    "fee": 800,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/53_modak_kalindi.jpg"
+  },
+  {
+    "key": 5,
+    "name": "Dr. NERLIKAR ROOPALI",
+    "title": "MBBS FRCS",
+    "speciality": "OPHTHALMOLOGY",
+    "gender": "Female",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/55_nerlikar_rupali.jpg"
+  },
+  {
+    "key": 6,
+    "name": "Dr. PALSULE ARATEE",
+    "title": "MBBS M.S.",
+    "speciality": "OPHTHALMOLOGY",
+    "gender": "Female",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/100_palsule_aarti.jpg"
+  },
+  {
+    "key": 7,
+    "name": "Dr. BHAT MADHAV J.",
+    "title": "MBBS MS",
+    "speciality": "OPHTHALMOLOGY",
+    "gender": "Male",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/Bhat.Madhav.jpg"
+  },
+  {
+    "key": 8,
+    "name": "Dr. JOSHI SHRIKANT D.",
+    "title": "MBBS M.S.",
+    "speciality": "OPHTHALMOLOGY",
+    "gender": "Male",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/138_joshi_shrikant.jpg"
+  },
+  {
+    "key": 9,
+    "name": "Dr. PATWARDHAN G.",
+    "title": "MBBS M.S.",
+    "speciality": "OPHTHALMOLOGY",
+    "gender": "Male",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/141_patwardhan_vidyadhar.jpg"
+  },
+  {
+    "key": 10,
+    "name": "Dr. WALIMBE PRASAD B.",
+    "title": "MBBS M.S.",
+    "speciality": "OPHTHALMOLOGY",
+    "gender": "Male",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/Mahesh%20Akhegaonkar.jpg"
+  },
+  {
+    "key": 11,
+    "name": "Dr. BAGADE ABHIJIT DILIP",
+    "title": "MBBS MD Internal Medicine",
+    "speciality": "MEDICINE",
+    "gender": "Male",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/Abhijit-Bagade.jpg"
+  },
+  {
+    "key": 12,
+    "name": "Dr. JAVADEKAR NARENDRA",
+    "title": "MBBS MD (MEDICINE)",
+    "speciality": "MEDICINE",
+    "gender": "Male",
+    "fee": 1000,
+    "img": "https://www.dmhospital.org/images/Hospital/Doctor/Small/Javdekar%20Narendra.jpg"
+  }
+]

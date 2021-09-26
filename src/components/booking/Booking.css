@@ -1,0 +1,64 @@
+.boxContainer {
+   
+    box-shadow: 0px 4px 6px #00000025;
+    text-align: left;
+    transition: all .5s;
+    position: relative;
+}
+.boxContainer img{
+    width: 100%;
+    height: 100%;
+}
+.doctorContent{
+    position: absolute;
+    background-color: #f1d46da1;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    transform: scale(.0);
+    text-align: center;
+    visibility: hidden;
+    transition: all 1s ease-in-out;
+    cursor: pointer;
+}
+.boxContainer p{
+    margin: 5px 0px;
+    padding: 0
+}
+
+.boxContainer img{
+transition: all .5s;
+overflow: hidden;
+cursor: pointer;
+}
+.boxContainer:hover img{
+    opacity: .6;
+}
+.boxContainer:hover .doctorContent{
+    visibility: visible;
+    transform: scale(1);
+}
+
+.btn-regular {
+    padding: 14px 35px;
+    border: none;
+    border-radius: 37px;
+    background: #f1d46d;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 600;
+    transition: all .5s;
+    color: rgba(0, 0, 0, 0.767);
+    margin-top:5% ;
+}
+.btn-regular:hover{
+    cursor: pointer;
+    background-color: #f5cf47;
+  box-shadow: 0px 4px 10px #00000025;
+  color: rgb(0, 0, 0);
+}
